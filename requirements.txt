@@ -1,0 +1,7 @@
+streamlit
+torch
+numpy
+matplotlib
+Pillow
+transformers
+scipy
